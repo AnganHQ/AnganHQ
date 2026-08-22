@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋, I'm Angan Haque
 
-<!--
-**AnganHQ/AnganHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
+🚀 Building web applications with JavaScript & Node.js
+🌱 Currently exploring Cybersecurity & Backend Development
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+JavaScript | React | Node.js | Express.js | MongoDB | PHP | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+• E-Commerce Platform
+• Social Media Application
+• Coffee Shop Management System
+• Personal Portfolio
+
+📫 Let's Connect
+[GitHub](https://github.com/AnganHQ) | [LinkedIn](https://www.linkedin.com/in/angan-haque-a62649390/) | angan6546@gmail.com
